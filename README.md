@@ -62,11 +62,12 @@ Ideal pra quem quer farejar **JWTs, Bearer tokens, API Keys, Basic Auth e outros
 
 ## 👨‍💻 Autor
 
-Feito por um profissional de pentest que prefere **automatizar o trampo sujo** do que perder tempo caçando token no olho.  
-Aceito contribuições, críticas, ou prints de vulnerabilidades que você achou com isso.
+**Caio Luchetti**  
+🔗 [LinkedIn](https://www.linkedin.com/in/caio-luchetti/)  
+🐙 GitHub: [@cxiolz](https://github.com/cxiolz)
 
 ---
 
-## 📜 Licença
+## 🧠 Licença
 
-Este projeto está licenciado sob a Licença MIT — veja o arquivo [LICENSE](LICENSE) para detalhes.
+MIT — Faça o que quiser, só não diga que foi você que fez 😎
